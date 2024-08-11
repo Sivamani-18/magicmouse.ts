@@ -1,6 +1,6 @@
 {
   "name": "magicmouse.ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A customizable magic mouse cursor component for React",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -9,7 +9,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup src/index.ts --format esm,cjs --dts --out-dir dist --clean",
+    "build": "tsup",
     "prepublishOnly": "npm run build"
   },
   "keywords": [
