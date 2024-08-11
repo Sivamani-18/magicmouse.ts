@@ -1,1 +1,1 @@
-export { default as MagicMouse } from './MagicMouse';
+export * from './MagicMouse';
