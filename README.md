@@ -1,4 +1,4 @@
-# magicmouse.ts
+# MagicMouse.ts
 
 ![npm](https://img.shields.io/npm/v/magicmouse.ts) ![license](https://img.shields.io/npm/l/magicmouse.ts) ![npm downloads](https://img.shields.io/npm/dw/magicmouse.ts)
 
