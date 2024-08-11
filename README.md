@@ -4,6 +4,8 @@
 
 A customizable magic mouse cursor component for React, built with TypeScript and styled-components. Perfect for adding an interactive and dynamic cursor effect to your modern React, Next.js, or Vite projects.
 
+![CPT2408111943-1293x601](https://github.com/user-attachments/assets/3a9d795a-f850-4348-bab4-4d88b1167a5e)
+
 ## Features
 
 - **Customizable Cursor Color:** Easily change the cursor color via a prop.
