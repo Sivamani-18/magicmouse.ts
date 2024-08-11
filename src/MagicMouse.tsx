@@ -71,7 +71,7 @@ const MagicMouseWrapper = styled.div`
   }
 `;
 
-const MagicMouse: React.FC<MagicMouseProps> = ({
+export const MagicMouse: React.FC<MagicMouseProps> = ({
   children,
   color = '#ff451b', // Default color
   MagicMouseOff = true, // Default state is on
