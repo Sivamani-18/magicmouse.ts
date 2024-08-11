@@ -1,4 +1,3 @@
-'use client'; // For Next.js compatibility if you're using it in a Next.js project
 import React, { useRef, useEffect } from 'react';
 import styled from 'styled-components';
 
