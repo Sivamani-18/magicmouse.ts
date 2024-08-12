@@ -1,6 +1,11 @@
 # MagicMouse.ts
 
-![npm](https://img.shields.io/npm/v/magicmouse.ts) ![license](https://img.shields.io/npm/l/magicmouse.ts) ![npm downloads](https://img.shields.io/npm/dw/magicmouse.ts)
+[![npm version](https://img.shields.io/npm/v/magicmouse.ts.svg?style=flat)](https://www.npmjs.com/package/magicmouse.ts)
+[![npm downloads](https://img.shields.io/npm/dt/magicmouse.ts.svg?style=flat)](https://www.npmjs.com/package/magicmouse.ts)
+[![npm license](https://img.shields.io/npm/l/magicmouse.ts.svg?style=flat)](https://www.npmjs.com/package/magicmouse.ts)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/magicmouse.ts.svg)](https://www.npmjs.com/package/magicmouse.ts)
+[![GitHub stars](https://img.shields.io/github/stars/Sivamani-18/3DTilt.svg?style=social)](https://github.com/Sivamani-18/magicmouse.ts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Sivamani-18/3DTilt.svg?style=social)](https://github.com/Sivamani-18/magicmouse.ts/network/members)
 
 A customizable magic mouse cursor component for React, built with TypeScript and styled-components. Perfect for adding an interactive and dynamic cursor effect to your modern React, Next.js, or Vite projects.
 
