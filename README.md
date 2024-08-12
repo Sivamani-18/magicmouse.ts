@@ -64,6 +64,15 @@ In this example:
 - **Next.js** (version 10 and above)
 - **Vite** (version 2 and above)
 
+### Use Cases for `magicmouse.ts`
+
+Here are a few scenarios where `magicmouse.ts` can enhance your web applications:
+
+1. **Landing Pages:** Create an interactive experience on your landing page by using a custom cursor that aligns with your brand.
+2. **Portfolios:** Make your portfolio stand out with a unique cursor that adds a touch of professionalism and creativity.
+3. **E-Commerce Sites:** Use a custom cursor to highlight product details and improve user engagement.
+
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have feature requests, feel free to open an issue or submit a pull request.
